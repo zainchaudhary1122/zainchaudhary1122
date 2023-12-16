@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zain
+👋 Hi, I’m Zain
 
 <!---
 zainchaudhary1122/zainchaudhary1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
