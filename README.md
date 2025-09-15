@@ -91,17 +91,19 @@ End-to-end recruitment platform with AI-driven job posts, resume evaluation, and
 Automated real-time meme coin creation engine leveraging GPT models and Pump.fun API.  
 **Tech:** FastAPI, AsyncIO, Web3, Streamlit  
 
-### 🔹 AI-Powered Recruitment Automation (Superior CS Group, Norway)  
+### 🔹 [AI-Powered Recruitment Automation (Superior CS Group, Norway)](https://drive.google.com/drive/folders/1H3wqHiZNX4R_gWH2Tryb5YZXQ9fmaYZ8)
 CRM + AI voice agents for candidate intake, resume evaluation, and automated interview scheduling.  
 **Tech:** GoHighLevel CRM, Relevance AI, Blend AI, Google Meet API, Zoom API  
 
 ---
 
 ## 📜 Certifications  
-- **Azure Developer Associate** – Microsoft (2025)  
+- [**DevOps Engineer Expert**](https://learn.microsoft.com/api/credentials/share/en-gb/ZainBinRizwan/EAA0FE0DBE7DF072?sharingId=C21CDFF6D3EBCCAB) – Microsoft Certified (2025)
+- [**Azure Developer Associate**](https://learn.microsoft.com/api/credentials/share/en-gb/ZainBinRizwan/F7BE349C5A0CD4EF?sharingId=C21CDFF6D3EBCCAB) – Microsoft Certified (2025)  
 - **Docker Certified Associate** – Corvit (2025)  
-- **Supervised Machine Learning: Regression & Classification** – Stanford (2023)  
-- **SEO with WordPress, Java, and Business Communication** – Coursera/UCI  
+- [**Supervised Machine Learning: Regression & Classification**](https://www.coursera.org/account/accomplishments/verify/ZU8VLTT243EF) – Stanford (2023)  
+- [**SEO with WordPress**](https://www.coursera.org/account/accomplishments/certificate/93LSMA524VXA) – Coursera/UCI
+- [**English for Effective Business Communications **](https://www.coursera.org/account/accomplishments/certificate/UHKHQC3M7HNQ) – University of California, Irvine
 
 ---
 
