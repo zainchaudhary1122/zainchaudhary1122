@@ -10,7 +10,48 @@ With 2+ years of professional experience, I specialize in **Python (Django, Fast
 - 💼 Experience across **U.S., Norway, and Pakistan** projects  
 - 🧑‍💻 Strong background in **backend development, AI integration, and cloud deployment**  
 - 🤝 Enjoy mentoring junior devs, leading teams, and writing clean, documented code  
-- 🌱 Always learning & adapting to new technologies to stay industry-relevant  
+- 🌱 Always learning & adapting to new technologies to stay industry-relevant
+- 
+---
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-EF4223?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-05AB8C?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Faiss-3B5BA9?style=for-the-badge&logoColor=white" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <!-- Tools/CRM -->
+  <img src="https://img.shields.io/badge/GoHighLevel-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RelevanceAI-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BlendAI-FF5733?style=for-the-badge&logoColor=white" />
+
+  <!-- Payment Systems -->
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/SubPaisa-28A745?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
@@ -53,17 +94,6 @@ Automated real-time meme coin creation engine leveraging GPT models and Pump.fun
 ### 🔹 AI-Powered Recruitment Automation (Superior CS Group, Norway)  
 CRM + AI voice agents for candidate intake, resume evaluation, and automated interview scheduling.  
 **Tech:** GoHighLevel CRM, Relevance AI, Blend AI, Google Meet API, Zoom API  
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages:** Python, SQL, C++, Java, PHP  
-**Frameworks:** Django, DRF, FastAPI, NumPy, Pandas  
-**Databases:** PostgreSQL, MySQL, ChromaDB, Pinecone, Faiss  
-**Cloud/DevOps:** AWS, GCP, Docker, Git, GitHub, BitBucket  
-**Tools/CRM:** GoHighLevel, RelevanceAI, BlendAI  
-**Payment Systems:** Stripe, SubPaisa  
 
 ---
 
